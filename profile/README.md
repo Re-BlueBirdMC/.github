@@ -1,5 +1,5 @@
 # Re-BlueBirdMC
 
-Re-BlueBirdMC is the original software called bluebirdmc any software that have bird in it is improsating us.
+Re-BlueBirdMC is the original software called BlueBirdMC. Any software that has "bird" in it is improsating us
 
-it was orignally made in js but since js didnt provide what we needed we switched to swift since it is easy to use
+It was originally made in JS, but since JS didn't provide what we needed, we switched to Swift since it is easy to use
