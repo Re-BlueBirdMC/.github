@@ -1,4 +1,4 @@
-# .github
+# Re-BlueBirdMC
 
 Re-BlueBirdMC is the original software called bluebirdmc any software that have bird in it is improsating us.
 
